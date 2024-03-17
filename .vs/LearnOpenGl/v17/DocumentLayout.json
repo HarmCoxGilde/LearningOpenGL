@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGl\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|solutionrelative:LearnOpenGl\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGl\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|solutionrelative:LearnOpenGl\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGl\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|solutionrelative:LearnOpenGl\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGl\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|solutionrelative:LearnOpenGl\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGl\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D29C091E-5C76-4C88-85E7-3AD0558E6007}|LearnOpenGl\\LearnOpenGl.vcxproj|solutionrelative:LearnOpenGl\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Application.h",
               "DocumentMoniker": "C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGl\\Application.h",
               "RelativeDocumentMoniker": "LearnOpenGl\\Application.h",
               "ToolTip": "C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGl\\Application.h",
               "RelativeToolTip": "LearnOpenGl\\Application.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-03-17T10:25:53.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Application.cpp",
               "DocumentMoniker": "C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGL\\Application.cpp",
               "RelativeDocumentMoniker": "LearnOpenGL\\Application.cpp",
               "ToolTip": "C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGL\\Application.cpp",
               "RelativeToolTip": "LearnOpenGL\\Application.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACgAAAAHAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwEkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-17T10:37:06.959Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "LearnOpenGL\\Main.cpp",
               "ToolTip": "C:\\Users\\HTRMC\\Documents\\Github\\LearnOpenGl\\LearnOpenGL\\Main.cpp",
               "RelativeToolTip": "LearnOpenGL\\Main.cpp",
-              "ViewState": "AQIAACsAAAAAAAAAAAAawDoAAAAPAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwD8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-17T09:58:21.521Z",
               "EditorCaption": ""
